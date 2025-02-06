@@ -1,0 +1,116 @@
+#main {
+    color: #ff7f11;
+}
+
+body {
+    background-color: #e0e0e0;
+    
+
+}
+    em {
+        position: relative;
+        top: 0px;
+        left: 4px;
+        color: #000074;
+
+    }
+
+    h1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        font-size: 2.5rem;
+        color: #003f88;
+
+    }
+
+    * {
+        text-align: center;
+
+    }
+
+    img {
+        margin-left: 100px;
+        margin-top: 40px;
+        margin-bottom: 10px;
+        border: solid black 0px;
+        width: 200px;
+        height: 200px;
+        border: none;
+        border-radius: 50%;
+
+
+    }
+
+    button {
+        clear: both;
+        margin-right: 45px;
+        margin-left: 40px;
+        border: none;
+        border-radius: 50px;
+        background-color: white;
+    }
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+
+    }
+
+    #Subscriber {
+        margin: center;
+
+    }
+
+    .conquer {
+        margin-top: 15px;
+        border-radius: 50px;
+    }
+
+    #loginForm {
+        color: black;
+        background-color: #e0e0e0;
+        border: none;
+        border-radius: 50px;
+    }
+
+    .login-container{
+        display: flex;
+        justify-content: center;
+        flex-direction: column-reverse;
+        
+    }
+
+    #Subscribe {
+        color: black;
+        background-color: white;
+        border: none;
+        border-radius: 50px;
+    }
+
+    .footer {
+        margin-top: 160px;
+        color: #cc5803;
+    }
+
+    .container{
+        display:block;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+
+    .seal{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        top: 30px;
+    }
+
+    hr{
+       border: .5px dashed black
+    }
